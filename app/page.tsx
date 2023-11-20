@@ -168,7 +168,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <button className="w-full mt-6 h-[3.5rem] rounded-[8rem] bg-[#303B59] text-white text-[1.125rem] font-bold">
+            <button className="w-full mt-6 h-[3.5rem] rounded-[8rem] hover:bg-gradient-to-b from-[rgb(105,67,255)] to-[rgb(47,44,233)]  bg-[#303B59] text-white text-[1.125rem] font-bold">
               Continue
             </button>
           </div>
